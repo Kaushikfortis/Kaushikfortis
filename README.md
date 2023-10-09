@@ -88,7 +88,7 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
       </td> -->
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/Kaushikfortis"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/Kaushikfortis"> <img src="https://komarev.com/ghpvc/?username=Kaushikfortis&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
