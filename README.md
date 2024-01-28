@@ -65,7 +65,7 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
 ### 📫 How to reach me?
 
- - Visit my [Website](https://kaushikfortis.onrender.com/) 🌐
+ - Visit my [Website](https://kaushikfortis.netlify.com/) 🌐
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/kaushik-pandilwar-12aa87185) 👨🏻‍💻
  - Follow me on [Instagram](https://www.instagram.com/fortis_fortuna_9/) ✨
  - Shoot Me an [Email](mailto:koushikpandilwar039@gmail.com) 💌
